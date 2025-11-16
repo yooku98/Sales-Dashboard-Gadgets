@@ -1,4 +1,4 @@
-# Sales-Dashboard-William
+# Sales-Dashboard-Gadgets
 # Tableau Sales Dashboard
 
 📊 An interactive sales dashboard built in Tableau Public using:
